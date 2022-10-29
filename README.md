@@ -6,5 +6,5 @@
 
 
 
-<img src="gitHubTheOffice.giff" alt="App exemplo " style="width:300px;height:900px;">
+<img src="gitHubTheOffice.gif" alt="App exemplo " style="width:300px;height:900px;">
 
