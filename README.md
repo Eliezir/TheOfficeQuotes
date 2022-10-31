@@ -5,7 +5,7 @@
 ### A simple React Native app to share images with random quotes from the  The Office
 
 
-<div style="width:100%;display:flex; justify-content:center">
+<div align="center">
 <img src="theOfficeScreen.gif" alt="App exemplo " style="width:414px;height:896;">
 </div>
 
